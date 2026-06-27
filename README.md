@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhilesh-Attal
-- 👀 I’m interested in React, Next.js, JavaScript.
-- 🌱 I’m currently learning Next.js
+- 👀 I’m interested in vibe coding and building AI Automations.
+- 🌱 I’m currently learning AI Automation.
 - 💞️ I’m looking to collaborate to learn ideas for projects
 - 📫 Let's connect with linkedin www.linkedin.com/in/nikhilesh-attal 
 - 😄 Pronouns: He/him
